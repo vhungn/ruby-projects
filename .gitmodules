@@ -1,0 +1,3 @@
+[submodule "ruby-on-rails"]
+	path = ruby-on-rails
+	url = git@github.com:vhungn/rails.git
